@@ -19,3 +19,7 @@ It provides a **beautifully formatted timezone selection menu**, auto-detects ot
 1. **Download the script**
    ```bash
    wget https://raw.githubusercontent.com/justmurty/timezone_proxmox/refs/heads/main/timezone.sh
+   chmod +x timezone.sh
+   ./timezone.sh
+
+
